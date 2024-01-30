@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently building front end projects, looking to collaborate!
+
 <!--
 **sriko09/sriko09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
